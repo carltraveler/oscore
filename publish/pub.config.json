@@ -1,0 +1,22 @@
+{
+	"db_config": {
+		"projectdb_user": "steven",
+		"projectdb_password": "abcd1234",
+		"projectdb_url": "127.0.0.1:3306",
+		"projectdb_name": "oscore"
+	},
+	"ontId": "did:ont:APg8EUQA16iUvgfMJ8YUsxPXR5WiYx1CSd",
+	"author": "上海分布科技",
+	"accessMode": 1,
+	"specs": [
+		{
+			"apiId": 21,
+			"specId": 63
+		}
+	],
+	"restPort": 30166,
+	"oscoreHost": "172.168.3.245",
+	"jsonFiles": [
+		"./youyi3.json"
+	]
+}

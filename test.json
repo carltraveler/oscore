@@ -1,0 +1,33 @@
+{
+	"nasa_api_key": "FnRwnqD0SGyf2GUbEwaAH33H4d6TeaRYYfdOEZwl",
+	"qrcode_callback": "http://192.168.1.86:18080/api/v1/ali/sendTxAli",
+	"operator_public_key": "02b8fcf42deecc7cccb574ba145f2f627339fbd3ba2b63fda99af0a26a8d5a01da",
+	"db_config": {
+		"projectdb_name": "oscore",
+		"projectdb_password": "abcd1234",
+		"projectdb_user": "steven",
+		"projectdb_url": "127.0.0.1:3306"
+	},
+	"ontid_private": "ae1bab4364ec7966ab8e8a1db43cf7162b6e619bcab9ce0af4d1763bc4a62186",
+	"collect_money_address": "AbtTQJYKfQxq4UdygDsbLVjE8uRrJ2H3tP",
+	"ont_id": "did:ont:AYCcjQuB6xgXm2vKku9Vb6bdTcEguXqbt1",
+	"version": "1.0.0",
+	"rest_port": 18080,
+	"oscore_host": "http://192.168.1.86",
+	"aliRetrunHost": "http://127.0.0.1:8080",
+	"ddxf_contract_address": "761d262ae24aeb13263bb80ad16801f9179b06c8",
+	"ddxfapiServer":"http://106.75.209.209:8080",
+	"network_id": 2,
+	"aliAayAddress": "http://106.75.209.209:2021",
+	"aliQueryAddress": "http://106.75.209.209:2020",
+	"accessKeyR": "029dd5db-8b8e-486e-bb48-3715b513eb45",
+	"secretKeyR": "a8f14375-9b8e-41ff-ae45-648eb548e4d0",
+	"accessKeyV": "63924991-1673-425d-90d4-4cbd63de6df5",
+	"secretKeyV": "688e8446-2d76-429e-949a-c0cf58c7efd0",
+	"appId": "3",
+	"walletName": "wallet.dat",
+	"layer2Contract": "oscore.avm",
+	"layer2MainNetNode": "http://107.155.55.167:20336",
+	"layer2TestNetNode": "http://152.32.217.204:20336",
+	"layer2RecordInterval": 10
+}
